@@ -134,7 +134,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: zoum44/bankapp:v20
+        image: zoum44/bankapp:v19
         resources:
           requests:
             memory: "256Mi"
